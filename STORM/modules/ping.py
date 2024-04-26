@@ -36,5 +36,5 @@ async def ping(_, e: Message):
       Fuk = await e.reply("⚡")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 10000
-      await Fuk.edit_text(f"ꜱ ᴛ ᴏ ʀ ᴍ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡\n» `{ms} ᴍꜱ`")
+      await Fuk.edit_text(f"❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ᴀɴɪᴍᴀʟ ⚡\n» `{ms} ᴍꜱ`")
 
