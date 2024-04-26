@@ -28,17 +28,17 @@ from config import SUDO_USERS
 )
 async def bstats(client, message):
     msg = f"""
-    ** ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ **
+    ** ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Kᴜɴᴀʟ࿐](https://t.me/kexx_xd)**
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Aɴɪᴍᴀʟ࿐](https://AnimalJanwarrrr)**
     • **ᴠᴇʀꜱɪᴏɴ** » **2.1.0**
     • **ᴛᴏᴛᴀʟ ᴍᴏᴅᴜʟᴇꜱ** » **80+**
     • **ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ** » **107+**  
     • **ʙʀᴀɴᴄʜ** » **2.1.x@main**
-    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ꜱᴛᴏʀᴍ-ᴜꜱᴇʀʙᴏᴛ](https://github.com/VARC9210/STORM-USERBOT)**
-    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ](https://t.me/STORM_CHATZ)**
-    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[ꜱᴛᴏʀᴍ ᴛᴇᴄʜ](https://t.me/STORM_TECHH)**    
+    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ᴀɴɪᴍᴀʟ-ᴜꜱᴇʀʙᴏᴛ](https://te.legra.ph/file/ec19cf227791a167abedc.jpg)**
+    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[❤️‍🔥ᴀɴɪᴍᴀʟ❤️‍🔥](https://t.me/knight_society)**
+    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[🌹ʙᴇᴀᴜᴛʏ🌹](https://t.me/itsRareBeautySelenaGomez)**        
     
-    **ʙʏ @kexx_xd**
+    **ʙʏ @AnimalJanwarrrr**
     """
     await message.reply(msg)
