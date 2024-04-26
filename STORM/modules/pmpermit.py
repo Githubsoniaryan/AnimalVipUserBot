@@ -30,18 +30,18 @@ pm_watcher = 5
 KEX = PM_PIC
 
 TEXT = """
-•            **[ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM-USERBOT)**
+•            **[ᴀɴɪᴍᴀʟ](https://t.me/itsRareBeautySelenaGomez)**
 ╰• **ᴏᴡɴᴇʀ** » {}
-• **ᴛʜɪs ɪs ᴋᴇx ᴘᴍ sᴇᴄᴜʀɪᴛʏ 🛡️**
+• **ᴛʜɪs ɪs ᴀɴɪᴍᴀʟ ᴘᴍ sᴇᴄᴜʀɪᴛʏ 🛡️**
 ➖➖➖➖➖➖➖➖➖➖➖ 
     **ʜᴇʏ ʙᴜᴅᴅʏ** 🥀
     **ɪғ ʏᴏᴜ sᴘᴀᴍ ʜᴇʀᴇ ᴡɪᴛʜᴏᴜᴛ ᴍʏ**
-    **ꜱᴇɴꜱᴇɪ's ᴀᴘᴘʀᴏᴠᴀʟ ʏᴏᴜ ᴡɪʟʟ ʙᴇ**
+    **ᴊᴀɴᴡᴀʀ's ᴀᴘᴘʀᴏᴠᴀʟ ʏᴏᴜ ᴡɪʟʟ ʙᴇ**
     **ʙʟᴏᴄᴋᴇᴅ** 
 • **ᴡᴀʀɴ ʟɪᴍɪᴛs** » {}      
 ╰• **ʏᴏᴜʀ ᴡᴀʀɴs** » {}
 ➖➖➖➖➖➖➖➖➖➖➖
-•           **[ꜱᴜᴘᴘᴏʀᴛ](https://t.me/STORM_CHATZ)**
+•           **[ꜱᴜᴘᴘᴏʀᴛ](https://t.me/itsRareBeautySelenaGomez)**
 """
 
 @Client.on_message(
