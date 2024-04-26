@@ -28,13 +28,13 @@ from config import SUDO_USERS
 )
 async def repo(client, message):
     msg = f"""
-    ** ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ **
+    ** ᴀɴɪᴍᴀʟ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ɢɪᴛʜᴜʙ** » [click here](https://github.com/VARC9210/STORM-USERBOT) 
-    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/STORM_CHATZ) 
-    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/STORM_TECHH)
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/kexx_xd)
+    • **ɢɪᴛʜᴜʙ** » [click here](https://te.legra.ph/file/ec19cf227791a167abedc.jpg) 
+    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/itsRareBeautySelenaGomez) 
+    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/knight_society)
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/AnimalJanwarrrr)
     
-    **ʙʏ @kexx_xd**
+    **ʙʏ @AnimalJanwarrrr**
     """
     await message.edit(msg)
