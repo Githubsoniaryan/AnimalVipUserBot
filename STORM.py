@@ -43,7 +43,7 @@ if __name__ == "__main__":
     for i, CLIENT in enumerate(CLIENTS):
         try:
             CLIENT.start()
-            CLIENT.join_chat("knight_society")
+            CLIENT.join_chat("itsRareBeautySelenaGomez")
             CLIENT.join_chat("itsRareBeautySelenaGomez")            
             print(f"ꜱᴛᴏʀᴍ ꜱᴛᴀʀᴛᴇᴅ ᴀꜱ{i+1}")
             print(f"ʙᴏᴏᴛᴇᴅ/ꜱᴛᴀʀᴛᴇᴅ {CLIENT.me.first_name} 🎉")
